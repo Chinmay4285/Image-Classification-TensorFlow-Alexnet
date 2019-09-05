@@ -12,7 +12,7 @@ It is a ready-to-run code.
 
 Training on CPU:
 
-```python3 multiclass_classification_cpu.py ```
+```python3 multiclass_classification.py ```
 
 # Notebook
 
