@@ -1,0 +1,7 @@
+tensorflow-gpu
+opencv-python
+tqdm
+pandas
+matplotlib
+numpy
+scikit-learn
