@@ -37,7 +37,7 @@ Download pure data from [here](https://www.kaggle.com/mbkinaci/chair-kitchen-kni
 # Architecture
 
 AlexNet is used as architecture. 5 convolution layers and 3 Fully Connected Layers with 0.5 Dropout Ratio. 60 million Parameters.
-![alt text](https://github.com/MuhammedBuyukkinaci/TensorFlow-Image-Classification-Convolutional-Neural-Networks/blob/master/alexnet_architecture.png) 
+![alt text](https://github.com/Chinmay4285/TensorFlow-Image-Classification-Alexnet/blob/master/alexnet_architecture.png) 
 
 # Epochs
 
