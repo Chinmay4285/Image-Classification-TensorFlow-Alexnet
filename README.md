@@ -1,6 +1,7 @@
-# TensorFlow-Multiclass-Image-Classification-using-CNN-s
+# TensorFlow-Image-Classification-using-Alexnet-s
 This is a multiclass image classification project using Convolutional Neural Networks and TensorFlow API (no Keras) on Python.
-I got this file as part of keras project and used some open source code for same.
+I got this file as part of keras project and used some open source code from some github user(mubuyuk51). I trained model with 10 epochs and you can see the results below. I used Intel AI cloud to train my model and to achieve above mentioned results. Please check it if you are interested.
+
 
 It is a ready-to-run code.
 
