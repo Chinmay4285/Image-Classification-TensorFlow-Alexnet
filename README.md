@@ -39,14 +39,15 @@ Download pure data from [here](https://www.kaggle.com/mbkinaci/chair-kitchen-kni
 AlexNet is used as architecture. 5 convolution layers and 3 Fully Connected Layers with 0.5 Dropout Ratio. 60 million Parameters.
 ![alt text](https://github.com/MuhammedBuyukkinaci/TensorFlow-Image-Classification-Convolutional-Neural-Networks/blob/master/alexnet_architecture.png) 
 
-#Epochs
+# Epochs
+
 I used 10 epochs to get this accuracy on Intel AI Cloud 
 ![alt text](https://github.com/Chinmay4285/TensorFlow-Image-Classification-Alexnet/blob/master/Epochs.JPG)
 # Results
 Accuracy score reached 87% on CV after just 5 epochs.
-![alt text](https://github.com/MuhammedBuyukkinaci/TensorFlow-Multiclass-Image-Classification-using-CNN-s/blob/master/mc_results.png)
+![alt text](https://github.com/Chinmay4285/TensorFlow-Image-Classification-Alexnet/blob/master/Graphs.JPG)
 
 # Predictions
 Predictions for first 64 testing images are below. Titles are  the predictions of our Model.
 
-![alt text](https://github.com/MuhammedBuyukkinaci/TensorFlow-Multiclass-Image-Classification-using-CNN-s/blob/master/mc_preds.png)
+![alt text](https://github.com/Chinmay4285/TensorFlow-Image-Classification-Alexnet/blob/master/prediction%20results.JPG)
