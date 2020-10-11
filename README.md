@@ -1,6 +1,6 @@
 # TensorFlow-Image-Classification-using-Alexnet-s
 This is a multiclass image classification project using Convolutional Neural Networks and TensorFlow API (no Keras) on Python.
-I got this file as part of keras project and used some open source code from some github user(mubuyuk51). I trained model with 10 epochs and you can see the results below. I used Intel AI cloud to train my model and to achieve above mentioned results. Please check it if you are interested.
+I got this file as part of keras project and used some open source code to develop it. I trained model with 10 epochs and you can see the results below. I used Intel AI cloud to train my model and to achieve above mentioned results. Please check it if you are interested.
 
 
 It is a ready-to-run code.
@@ -32,7 +32,7 @@ test_data_bi.npy is containing 1267 testing photos with labels.
 
 Classes are chair & kitchen & knife & saucepan. Classes are equal(1300 glass - 1300 kitchen - 1300 knife- 1300 saucepan) on training data. 
 
-Download pure data from [here](https://www.kaggle.com/mbkinaci/chair-kitchen-knife-saucepan). Warning 962 MB.
+Download pure data from [here]. Warning 962 MB.
 
 # Architecture
 
